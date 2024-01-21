@@ -1,0 +1,8 @@
+
+Kafdrop
+
+java --add-opens=java.base/sun.nio.ch=ALL-UNNAMED -jar absolute_path\kafdrop-master\target\kafdrop-4.0.1-SNAPSHOT.jar --kafka.brokerConnect=ip:9092
+
+ip - cluster ip
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
