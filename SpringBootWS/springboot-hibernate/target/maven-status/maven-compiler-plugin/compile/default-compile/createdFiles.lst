@@ -1,6 +1,0 @@
-com\srvcode\hibernate\HibernateApplication.class
-com\srvcode\hibernate\repository\ProductRepository.class
-com\srvcode\hibernate\controller\ProductController.class
-com\srvcode\hibernate\model\Product.class
-com\srvcode\hibernate\service\ProductService.class
-com\srvcode\hibernate\config\HibernateUtil.class
